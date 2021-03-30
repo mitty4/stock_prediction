@@ -1,6 +1,6 @@
 # stock_prediction
 
-![alt text](https://github.com/mitty4/[stock_prediction/blob/master/image.jpeg?raw=true)
+![stock market image](https://github.com/mitty4/stock_prediction/blob/master/image.jpeg?raw=true)
 
 
 
