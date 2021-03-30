@@ -1,4 +1,5 @@
 # stock_prediction
+#### Capstone Project #3
 
 ![stock market image](https://github.com/mitty4/stock_prediction/blob/master/image.jpeg?raw=true)
 
